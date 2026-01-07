@@ -1,9 +1,9 @@
 ## Hey, I'm Rayyan 👋
 
 - 📚 I’m a 19 year old sophomore Computer Science student.
-- 🌱 I’m currently learning machine learning and deep learning concepts, to combine them with my knowledge and experience with video games.
+- 🌱 I’m currently interested in machine learning and embedded systems.
 - ✈️ I specialize in drone development, in which I work on designing UAV CAD models and develop advanced AI Object Detection and Classification systems for Team Swift.
-- ⚡ I love to workout, read and play games :)
+- ⚡ I love to workout, read and play video games :)
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-rayyan-hasan-625434350/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayyan.hasanapr206@gmail.com) 
