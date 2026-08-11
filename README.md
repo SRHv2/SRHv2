@@ -1,8 +1,7 @@
 ## Hey, I'm Rayyan 👋
 
 - 📚 I’m a 20 year old sophomore Computer Science student.
-- 🌱 I’m currently pursuing robotics, computer vision and simulations
-- ✈️ I specialize in drone development, in which I work on designing UAV CAD models and develop advanced AI Object Detection and Classification systems for Team Swift.
+- 🌱 I’m currently pursuing AI and Robotics(mostly UAVs{for now}).
 - ⚡ I love to workout, read and play video games :)
   
 ## 🌐 Socials:
